@@ -19,7 +19,7 @@ def main():
 
     # output
     print("")
-    print("Circumference is {0} mm².".format(circumference))
+    print("Circumference is {0} mm.".format(circumference))
 
     print("\nDone.")
 
